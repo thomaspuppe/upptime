@@ -4,45 +4,49 @@
     "url": "https://www.thomaspuppe.de",
     "icon": "https://favicons.githubusercontent.com/www.thomaspuppe.de",
     "slug": "www-thomaspuppe-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 450,
     "timeDay": 497,
     "timeWeek": 448,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 1
+    }
   },
   {
     "name": "blog.thomaspuppe.de",
     "url": "https://blog.thomaspuppe.de",
     "icon": "https://favicons.githubusercontent.com/blog.thomaspuppe.de",
     "slug": "blog-thomaspuppe-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 548,
     "timeDay": 568,
     "timeWeek": 546,
     "timeMonth": 548,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 1
+    }
   },
   {
     "name": "www.kitty-counts.it",
     "url": "https://www.kitty-counts.it",
     "icon": "https://favicons.githubusercontent.com/www.kitty-counts.it",
     "slug": "www-kitty-counts-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 764,
     "timeMonth": 724,
     "timeYear": 724,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-06": 0
+    }
   }
 ]
