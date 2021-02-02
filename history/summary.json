@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 465,
-    "timeDay": 457,
-    "timeWeek": 446,
-    "timeMonth": 468,
+    "timeDay": 451,
+    "timeWeek": 442,
+    "timeMonth": 470,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2021-01-06": 21
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 578,
-    "timeDay": 482,
-    "timeWeek": 520,
-    "timeMonth": 583,
-    "timeYear": 578,
+    "time": 576,
+    "timeDay": 492,
+    "timeWeek": 522,
+    "timeMonth": 581,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2021-01-06": 20
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/www.kitty-counts.it",
     "slug": "www-kitty-counts-it",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.83%",
-    "time": 686,
-    "timeDay": 700,
-    "timeWeek": 585,
-    "timeMonth": 664,
-    "timeYear": 686,
+    "uptimeYear": "99.84%",
+    "time": 687,
+    "timeDay": 735,
+    "timeWeek": 618,
+    "timeMonth": 666,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2021-01-11": 60,
       "2021-01-06": 20
