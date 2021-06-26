@@ -44,7 +44,7 @@
     "url": "https://www.kitty-counts.it",
     "icon": "https://favicons.githubusercontent.com/www.kitty-counts.it",
     "slug": "www-kitty-counts-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +56,7 @@
     "timeMonth": 632,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2021-06-26": 0,
       "2021-02-03": 41,
       "2021-01-11": 60,
       "2021-01-06": 20
