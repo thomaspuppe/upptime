@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
-    "timeDay": 402,
-    "timeWeek": 611,
-    "timeMonth": 489,
+    "timeDay": 616,
+    "timeWeek": 445,
+    "timeMonth": 499,
     "timeYear": 468,
-    "dailyMinutesDown": {
-      "2021-01-06": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.thomaspuppe.de",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 490,
-    "timeWeek": 610,
-    "timeMonth": 554,
-    "timeYear": 558,
-    "dailyMinutesDown": {
-      "2021-01-06": 20
-    }
+    "time": 559,
+    "timeDay": 850,
+    "timeWeek": 533,
+    "timeMonth": 565,
+    "timeYear": 559,
+    "dailyMinutesDown": {}
   },
   {
     "name": "www.kitty-counts.it",
@@ -50,17 +46,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 637,
-    "timeDay": 587,
-    "timeWeek": 566,
-    "timeMonth": 594,
-    "timeYear": 635,
+    "time": 638,
+    "timeDay": 894,
+    "timeWeek": 621,
+    "timeMonth": 609,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2021-06-29": 420,
       "2021-06-26": 111,
       "2021-02-03": 41,
-      "2021-01-11": 60,
-      "2021-01-06": 20
+      "2021-01-11": 60
     }
   }
 ]
