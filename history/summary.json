@@ -4,19 +4,19 @@
     "url": "https://www.thomaspuppe.de",
     "icon": "https://favicons.githubusercontent.com/www.thomaspuppe.de",
     "slug": "www-thomaspuppe-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 421,
-    "timeWeek": 466,
-    "timeMonth": 471,
+    "timeDay": 423,
+    "timeWeek": 461,
+    "timeMonth": 469,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-03-23": 1
+      "2022-03-23": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.thomaspuppe.de",
     "icon": "https://favicons.githubusercontent.com/blog.thomaspuppe.de",
     "slug": "blog-thomaspuppe-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 509,
-    "timeWeek": 569,
-    "timeMonth": 564,
+    "timeDay": 516,
+    "timeWeek": 563,
+    "timeMonth": 562,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 13
     }
   },
   {
@@ -48,7 +48,7 @@
     "uptime": "93.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.80%",
+    "uptimeMonth": "8.77%",
     "uptimeYear": "92.30%",
     "time": 643,
     "timeDay": 0,
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-03-23": 795,
+      "2022-03-23": 808,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
