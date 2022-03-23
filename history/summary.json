@@ -4,10 +4,10 @@
     "url": "https://www.thomaspuppe.de",
     "icon": "https://favicons.githubusercontent.com/www.thomaspuppe.de",
     "slug": "www-thomaspuppe-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
@@ -15,16 +15,18 @@
     "timeWeek": 466,
     "timeMonth": 471,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 1
+    }
   },
   {
     "name": "blog.thomaspuppe.de",
     "url": "https://blog.thomaspuppe.de",
     "icon": "https://favicons.githubusercontent.com/blog.thomaspuppe.de",
     "slug": "blog-thomaspuppe-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 569,
     "timeMonth": 564,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-23": 0
+    }
   },
   {
     "name": "www.kitty-counts.it",
@@ -41,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.kitty-counts.it",
     "slug": "www-kitty-counts-it",
     "status": "down",
-    "uptime": "93.83%",
+    "uptime": "93.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.61%",
-    "uptimeYear": "92.45%",
+    "uptimeMonth": "8.80%",
+    "uptimeYear": "92.30%",
     "time": 643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-03-23": 3,
+      "2022-03-23": 795,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
